@@ -1,0 +1,7 @@
+sentence-transformers==3.3.1
+faiss-cpu==1.9.0.post1
+numpy==2.2.0
+regex==2024.11.6
+requests==2.32.3
+langchain-text-splitters==0.3.4
+PyMuPDF==1.25.2
